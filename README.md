@@ -1,4 +1,4 @@
-# BERT Fine Tuning Sentence Classification for CoLA Dataset
+# BERT Fine Tuning on Sentence Classification for CoLA Dataset
 
 ## Dataset
 The Corpus of Linguistic Acceptability (CoLA) in its full form consists of 10657 sentences from 23 linguistics publications, expertly annotated for acceptability (grammaticality) by their original authors. The public version provided here contains 9594 sentences belonging to training and development sets, and excludes 1063 sentences belonging to a held out test set.
